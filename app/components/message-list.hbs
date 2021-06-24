@@ -1,0 +1,6 @@
+<ul data-test-message-list>
+    {{yield}}
+    {{#each @messages as |message|}}
+        <li>{{message.text}}</li>
+    {{/each}}
+</ul>
