@@ -1,7 +1,8 @@
 # ember-tdd
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This repo is a working version/result of working through the tutorial.
+It would be awesome if the author could update the tutorial page content
+so others can enjoy also and learn about TDD.
 
 ## Prerequisites
 
