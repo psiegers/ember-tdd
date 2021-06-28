@@ -3,6 +3,8 @@
 This repo is a working version/result of working through the tutorial.
 It would be awesome if the author could update the tutorial page content
 so others can enjoy also and learn about TDD.
+The tutorial can be found here:
+https://learntdd.in/ember/#creating-the-project
 
 ## Prerequisites
 
